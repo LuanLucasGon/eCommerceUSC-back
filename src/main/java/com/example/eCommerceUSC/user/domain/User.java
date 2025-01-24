@@ -1,4 +1,4 @@
-package com.example.eCommerceUSC.domain.user;
+package com.example.eCommerceUSC.user.domain;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

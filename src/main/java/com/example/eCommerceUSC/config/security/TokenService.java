@@ -1,10 +1,10 @@
-package com.example.eCommerceUSC.infra.security;
+package com.example.eCommerceUSC.config.security;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.algorithms.Algorithm;
 import com.auth0.jwt.exceptions.JWTCreationException;
 import com.auth0.jwt.exceptions.JWTVerificationException;
-import com.example.eCommerceUSC.domain.user.User;
+import com.example.eCommerceUSC.user.domain.User;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 

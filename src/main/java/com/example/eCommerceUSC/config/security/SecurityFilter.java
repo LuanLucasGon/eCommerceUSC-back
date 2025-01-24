@@ -1,7 +1,7 @@
-package com.example.eCommerceUSC.infra.security;
+package com.example.eCommerceUSC.config.security;
 
-import com.example.eCommerceUSC.domain.user.User;
-import com.example.eCommerceUSC.repositories.UserRepository;
+import com.example.eCommerceUSC.user.domain.User;
+import com.example.eCommerceUSC.user.infrastructure.repositories.UserRepository;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

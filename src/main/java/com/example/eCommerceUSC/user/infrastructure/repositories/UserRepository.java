@@ -1,6 +1,6 @@
-package com.example.eCommerceUSC.repositories;
+package com.example.eCommerceUSC.user.infrastructure.repositories;
 
-import com.example.eCommerceUSC.domain.user.User;
+import com.example.eCommerceUSC.user.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package com.example.eCommerceUSC.infra.security;
+package com.example.eCommerceUSC.config.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

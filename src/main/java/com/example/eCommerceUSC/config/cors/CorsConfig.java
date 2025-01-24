@@ -1,4 +1,4 @@
-package com.example.eCommerceUSC.infra.cors;
+package com.example.eCommerceUSC.config.cors;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
